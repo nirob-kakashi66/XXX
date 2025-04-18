@@ -7,7 +7,7 @@
 		"node": "18.x",
 		"npm": ">=7.0.0"
 	},
-	""priyanshu-fca": "^1.0.0"": {
+	"priyanshu-fca": "^1.0.0": {
 		"@distube/ytdl-core": "^4.13.3",
 		"axios": "^1.4.0",
 		"bcrypt": "^5.0.1",
